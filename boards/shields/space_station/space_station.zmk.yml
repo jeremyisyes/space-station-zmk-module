@@ -1,0 +1,9 @@
+file_format: "1"
+id: spacestation
+name: Space Station
+type: shield
+url: https://github.com/jeremyisyes/upset-zmk-keyboards
+requires: [seeed_xiao]
+features:
+  - keys
+  - studio
