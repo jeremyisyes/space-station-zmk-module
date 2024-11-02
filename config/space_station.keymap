@@ -14,7 +14,7 @@
 
         default_layer {
             bindings = <
-                &kp LCTRL    &kp LALT    &kp SPACE    &kp RALT    &out OUT_BLE
+                &kp LCTRL    &kp LALT    &kp SPACE    &kp RALT    &kp RCTRL
             >;
         };
     };
